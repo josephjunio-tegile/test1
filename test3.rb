@@ -13,6 +13,7 @@ password = gets.chomp
 host = "10.65.5.222"
 username = "admin"
 password = "tegile"
+#test-changes
 
 # Setup authorization
 IFClient.configure do |config|
